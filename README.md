@@ -7,7 +7,8 @@ before start project need install some codule:
 command for install in terminal
 
 1.
-npm init
+npm install
+
 (this install all depandencies for project)
 
 2.
